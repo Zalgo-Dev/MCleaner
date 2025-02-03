@@ -5,38 +5,9 @@
 
 ## 🚀 Features
 - Delete **logs**, **crash reports**, **debug files**, and **screenshots**.
-- Remove **MeteorClient custom files**.
 - Clean **saved worlds** (optional).
-- Supports **TrouserStreak logs cleanup**.
-- User-friendly **menu interface**.
-
-## 📂 Installation
-1. **Download the script**:
-   - Clone this repository:  
-     ```sh
-     git clone https://github.com/Zalgo-Dev/MCleaner.git
-     ```
-   - Or manually download the `MCleaner.bat` file.
-
-2. **Place the script** anywhere on your PC.
-
-3. **Run the script**:
-   - Double-click `MCleaner.bat`.
-   - If needed, right-click and select **"Run as Administrator"**.
-
-## 🛠 Usage
-When you run the script, you will see a menu.
-
-# MCleaner - Minecraft Cleaner Script
-
-## 📌 About
-**MCleaner** is a simple batch script designed to clean unnecessary files from your Minecraft installation, including logs, crash reports, screenshots, and more. This tool helps keep your `.minecraft` folder clean and optimized.
-
-## 🚀 Features
-- Delete **logs**, **crash reports**, **debug files**, and **screenshots**.
-- Remove **MeteorClient custom files**.
-- Clean **saved worlds** (optional).
-- Supports **TrouserStreak logs cleanup**.
+- Supports **MeteorClient**.
+- Supports **TrouserStreak**.
 - User-friendly **menu interface**.
 
 ## 📂 Installation
